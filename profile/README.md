@@ -1,7 +1,5 @@
 # FUN Games
 
-![FUN Games Logo](https://storage.googleapis.com/fun-assets/FUN_start_banner.jpg)
-
 **FUN Games** is a pioneering catalog of multiplayer-based games on Telegram that integrates TON blockchain and Jettons to offer a seamless and enriching gaming experience. Our platform supports a single balance for all games, enabling a smoother transaction experience across various offerings. Players can engage in popular social games, complete onboarding quests, and earn FUN Jetton, enhancing both playability and profitability.
 
 ## Our Repositories
